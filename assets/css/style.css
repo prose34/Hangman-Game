@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    /* background: black; */
+}
+
+div {
+    /* overflow: hidden; */
+}
+ 
+#mainImg {
+    /* margin: 0 auto; */
+    border: 2px solid white;
+    margin: 2px 0 0 0;
+}
+
+/* .sidePics {
+    border: 5px dashed black;
+    margin: 0 10px 0 0;
+} */
+
+.mainGame {
+    border: 5px dashed black;
+}
+
+h1 {
+    color: red;
+}
